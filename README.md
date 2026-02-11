@@ -18,10 +18,12 @@ A machine learning project predicting residential home prices in Ames, Iowa usin
 
 | Role | Team Members | Focus Areas |
 |------|-------------|-------------|
-| **Team Lead** | [John Sato] | Coordination, Final Integration, Submissions |
-| **Data Explorers** | [Names] | EDA, Visualization, Feature Analysis |
-| **Data Cleaners** | [Names] | Missing Values, Feature Engineering |
-| **Model Builders** | [Names] | Model Training, Hyperparameter Tuning |
+| **Team Lead** | John Sato | Coordination, Final Integration, Submissions |
+| **Dashboarding** | Ben, Michelle, Micah, John | power Bi/ Dash app | 
+| **Data Explorers** | Brian, Pius | EDA, Visualization, Feature Analysis |
+| **Data Cleaners** | John, Ben, Brian, Micah, Brighton | Missing Values, Feature Engineering |
+| **Database** | Pius, Michelle, Brighton | SQL Transaction 'merge, joints, create tables |
+| **Model Builders** | Pending | Model Training, Hyperparameter Tuning |
 
 ## 📁 Project Structure
 house-price-team/
