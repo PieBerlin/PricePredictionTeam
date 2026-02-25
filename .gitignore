@@ -1,6 +1,13 @@
  # Ignore data files - they're too big for GitHub
-data/
+data/raw/
 *.csv
 *.pkl
 __pycache__/
 .DS_Store
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.env

@@ -19,8 +19,10 @@ A machine learning project predicting residential home prices in Ames, Iowa usin
 | Role | Team Members | Focus Areas |
 |------|-------------|-------------|
 | **Team Lead** | [John Sato] | Coordination, Final Integration, Submissions |
-| **Data Explorers** | [Names] | EDA, Visualization, Feature Analysis |
-| **Data Cleaners** | [Names] | Missing Values, Feature Engineering |
+| **Data Explorers** | [Brian & Pius] | EDA, Visualization, Feature Analysis |
+| **Data Cleaners** | [John, Ben, Brian, Micah, Brighton] | Missing Values, Feature Engineering, Outliers |
+| **Database** | [Michelle, Pius, Brighton] | Sql Queries, Schemas |
+| **Dashboard** | [Ben, Michelle, Micah, John] | Power Bi, Dash app|
 | **Model Builders** | [Names] | Model Training, Hyperparameter Tuning |
 
 ## 📁 Project Structure
@@ -130,6 +132,20 @@ house-price-team/
      - Pull latest changes before starting work
      - Test code thoroughly before committing
      - Help teammates when stuck
+
+## Dataset Instructions
+1. Download dataset from Kaggle:
+   https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
+
+2. Place the files inside:
+
+   data/raw/
+
+3. Do NOT rename the files.
+
+4. Run notebooks in order.
+
+
 
 Git Commands We Use
 bash
