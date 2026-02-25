@@ -133,6 +133,20 @@ house-price-team/
      - Test code thoroughly before committing
      - Help teammates when stuck
 
+## Dataset Instructions
+1. Download dataset from Kaggle:
+   https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
+
+2. Place the files inside:
+
+   data/raw/
+
+3. Do NOT rename the files.
+
+4. Run notebooks in order.
+
+
+
 Git Commands We Use
 bash
 # Daily workflow
